@@ -1,0 +1,16 @@
+{
+	"name": "demo",
+	"authors": [
+		"Wang"
+	],
+	"dependencies": {
+        "pyd": "~>0.9.4"
+    },
+    "subConfigurations": {
+        "pyd": "python35"
+    },
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, Wang",
+	"license": "proprietary"
+	
+}
